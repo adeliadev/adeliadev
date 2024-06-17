@@ -3,8 +3,9 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=adeliadev&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>
-  Procurando minha primeira experiência na área tech. Estou cursando o 2º período do curso de Sistema para Internet.
-  Tenho como meta ser desenvolvedora full stack, mas quero começar com o back-end  para ir descobrindo as coisas aos poucos.
+  Apaixonada por tecnologia e em busca de oportunidades na área de desenvolvimento back-end! Cursando o 3º período de Sistemas para Internet, atualmente focada em Java,
+  com o grande objetivo de me tornar uma desenvolvedora full-stack. Sou uma pessoa dedicada e motivada, pronta para contribuir com meu empenho e comprometimento de aprender
+  em um ambiente dinâmico e colaborativo.
 </p>
 
 ## 💻 Habilidades
