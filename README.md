@@ -1,6 +1,6 @@
 # 📝 Sobre:
 * 🔎 Buscando oportunidade como dev back-end
-* 🎓 Estudante do 3º período de Sistemas para Internet - Uniesp
+* 🎓 Estudante do 4º período de Sistemas para Internet - Uniesp
 * 🉐 Inglês - B1 (intermediário)
 * 💡 Sempre fui muito curiosa com tecnologia e estou sempre aprendendo algo novo
 * 🎯 Meu principal foco: Java, Spring e SQL
