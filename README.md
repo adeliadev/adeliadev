@@ -1,9 +1,9 @@
 # 📝 Sobre:
-* 🔎 Buscando oportunidade como QA ou dev back-end
+* 🔎 Buscando oportunidade como QA
 * 🎓 Estudante do 4º período de Sistemas para Internet - Uniesp
 * 🉐 Inglês - B1 (intermediário)
 * 💡 Sempre fui muito curiosa com tecnologia e estou sempre aprendendo algo novo
-* 🎯 Meu principal foco: Java, Spring, Testes e SQL
+* 🎯 Meu principal foco: Java, Python, Testes, SQL
 * 🧠 Aprimorando lógica com desafios no beecrowd/hackerRank
 * 🤝 Engajada em eventos tech e desenvolvimento de projetos
 
