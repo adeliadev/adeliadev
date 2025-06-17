@@ -1,16 +1,14 @@
 # 📝 Sobre:
 * 🔎 Buscando oportunidade como QA
-* 🎓 Estudante do 4º período de Sistemas para Internet - Uniesp
+* 🎓 Estudante do 5º período de Sistemas para Internet - Uniesp
 * 🉐 Inglês - B1 (intermediário)
 * 💡 Sempre fui muito curiosa com tecnologia e estou sempre aprendendo algo novo
-* 🎯 Meu principal foco: Java, Python, Testes, SQL
-* 🧠 Aprimorando lógica com desafios no beecrowd/hackerRank
+* 🎯 Meu principal foco: QA, Testes, Python, SQL
+* 🧠 Aprimorando lógica com desafios no beecrowd
 * 🤝 Engajada em eventos tech e desenvolvimento de projetos
 
 ## 💻 Conhecimentos:
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-CC0000?style=for-the-badge&logo=html5&logoColor=white">
